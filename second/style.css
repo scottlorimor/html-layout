@@ -1,0 +1,41 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+div {
+  height: 100%;
+  width: 33%;
+  display: inline-block;
+}
+
+p {
+	text-align: center;
+	font-size: 30px;
+	font-family: arial;
+	color: white;
+	padding-top: 40px;
+}
+
+.one {
+  background-color: #4a90e2;
+}
+
+.two {
+  background-color: #50e3c2;
+}
+
+.three {
+  background-color: #b8e986;
+  position: relative;
+}
+
+.four {
+  background-color: red;
+  position: absolute;
+  bottom: 0px;
+  height: 25%;
+  width: 100%;
+}
+
+
